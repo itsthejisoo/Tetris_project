@@ -1,0 +1,15 @@
+﻿  소스.cpp
+C:\Users\김지수\source\repos\겜마루 겨울 공모전\겜마루 겨울 공모전\소스.cpp(250,9): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\김지수\source\repos\겜마루 겨울 공모전\겜마루 겨울 공모전\소스.cpp(251,77): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\김지수\source\repos\겜마루 겨울 공모전\겜마루 겨울 공모전\소스.cpp(252,111): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\김지수\source\repos\겜마루 겨울 공모전\겜마루 겨울 공모전\소스.cpp(253,111): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\김지수\source\repos\겜마루 겨울 공모전\겜마루 겨울 공모전\소스.cpp(254,111): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\김지수\source\repos\겜마루 겨울 공모전\겜마루 겨울 공모전\소스.cpp(255,111): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\김지수\source\repos\겜마루 겨울 공모전\겜마루 겨울 공모전\소스.cpp(256,111): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\김지수\source\repos\겜마루 겨울 공모전\겜마루 겨울 공모전\소스.cpp(257,111): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\김지수\source\repos\겜마루 겨울 공모전\겜마루 겨울 공모전\소스.cpp(258,111): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\김지수\source\repos\겜마루 겨울 공모전\겜마루 겨울 공모전\소스.cpp(259,111): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\김지수\source\repos\겜마루 겨울 공모전\겜마루 겨울 공모전\소스.cpp(260,89): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\김지수\source\repos\겜마루 겨울 공모전\겜마루 겨울 공모전\소스.cpp(263,19): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\김지수\source\repos\겜마루 겨울 공모전\겜마루 겨울 공모전\소스.cpp(271,11): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\김지수\source\repos\겜마루 겨울 공모전\겜마루 겨울 공모전\소스.cpp(279,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
