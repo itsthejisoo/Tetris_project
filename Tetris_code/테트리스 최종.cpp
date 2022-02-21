@@ -337,7 +337,7 @@ void reset(void) {
 	speed = 100;
 
 	system("cls");
-	reset_main(); //main_org를 초기화 
+	reset_main(); //main_frontbuffer를 초기화 
 	draw_map(); //게임화면을 그림 
 	draw_main(); //게임판을 그림 
 	b_type_next = rand() % 7; //다음번에 나올 블록 종류를 랜덤하게 생성 
