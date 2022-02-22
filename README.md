@@ -1,6 +1,8 @@
 # 겜마루 겨울 공모전 - Tetris_project 
 
 ## C언어를 이용하여 테트리스 만들기 
+겨울 프로젝트 > Debug > 겨울 프로젝트.exe
+
 
 ## 1. ABOUT 
 ##### * NAME: TETRIS 
